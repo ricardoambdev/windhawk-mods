@@ -1,0 +1,15 @@
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+*.vcxproj.user
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.obj
+*.lib
+*.exp
+*.log
