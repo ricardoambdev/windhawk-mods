@@ -26,7 +26,14 @@
 // ==/WindhawkModReadme==
 
 // ==WindhawkModSettings==
-/*...*/
+// - width: 0
+//   description: Width of the Start menu (0 = system default)
+// - height: 0
+//   description: Height of the Start menu (0 = system default)
+// - searchWidth: 0
+//   description: Width of the search panel (-1 = system default, 0 = use Start menu width)
+// - searchHeight: 0
+//   description: Height of the search panel (-1 = system default, 0 = use Start menu height)
 // ==/WindhawkModSettings==
 
 #include <windhawk_utils.h>
